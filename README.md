@@ -1,5 +1,6 @@
 <h1 align="center">Hello world! 👋 I'm Oksana</h1>
-<h3 align="center">A student and web-developer from Ukraine</h3>
+<h3 align="center"> 14 years old student
+and web-developer from Ukraine.</h3>
 
 - 🌱 I’m currently learning **JavaScript on advanced level**
 
