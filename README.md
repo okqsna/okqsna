@@ -5,7 +5,6 @@ and web-developer from Ukraine.</h3>
 - 🌱 I’m currently learning **JavaScript on advanced level**
 
 - 💬 I'm currently studying **programming in Creator IT Academy**
-- Pronouns: she/her/hers
 
 - 📫 How to reach me **oksana.moskviak@gmail.com**
 
