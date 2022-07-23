@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript on advanced level**
 
-- 💻 Some of my projects are available at [https://okqsna.github.io/Portfolio/](https://okqsna.github.io/Portfolio/)
+- 💻 Some of my projects are available at [Oksana's Portfolio](https://oksanamoskviak-portfolio.netlify.app/)
 
 - 🏄🏻‍♀️ I'm currently studying **programming in Creator IT Academy**
 
