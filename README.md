@@ -1,11 +1,11 @@
 <h1  align="center"> < Hello World! /></h1>
 <h3>I'm Oksana👩🏻‍💻, a student and front-end developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **JavaScript on advanced level**
+- 🌱 I’m currently learning **React JS**
 
 - 💻 Some of my projects are available at [my Portfolio](https://oksanamoskviak-portfolio.netlify.app/)
 
-- 🏄🏻‍♀️ I'm currently studying **programming in Creator IT Academy**
+- 🏄🏻‍♀️ I'm studying **programming in Creator IT Academy**
 
 <h3 align="left">🤳 Connect with me:</h3>
 <p align="left">
