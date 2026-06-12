@@ -1,5 +1,8 @@
-<h1  align="start"> Hello World! </h1>
-<h3>I'm Oksana👩🏻‍💻, Computer Science student at UCU 🇺🇦 </h3>
+
+# hi! 🌸
+I am Oksana Moskviak, second year Computer Science student at Ukrainian Catholic University. 
+
+Interested in creative projects, involving NLP and data-driven decisions! ☕ + 📊 + 🎧
 
 
 
